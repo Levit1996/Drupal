@@ -10,3 +10,6 @@ If you want to know how to use it as replacement for
 the [Documentation on drupal.org](https://www.drupal.org/node/2471553).
 
 
+# Instalación del proyecto
+1- Clonamos el proyecto. 
+
