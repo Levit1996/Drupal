@@ -11,5 +11,5 @@ the [Documentation on drupal.org](https://www.drupal.org/node/2471553).
 
 
 # Instalación del proyecto
-1- Clonamos el proyecto. 
+1- Clonamos el proyeco utilizando el comand
 
