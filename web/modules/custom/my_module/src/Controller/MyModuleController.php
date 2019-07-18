@@ -10,7 +10,7 @@ este método será llamado por la ruta "my_module.routign.yml" */
   public function content() {
     return array(
         '#type' => 'markup',
-        '#markup' => $this->t('Módulo dummy Hola mundo'),
+        '#markup' => $this->t('Módulo Hola mundo'),
     );
   }
 
