@@ -1,0 +1,4 @@
+name: my module
+description: Módulo de prueba Hola Mundo
+type: module
+core: 8.x

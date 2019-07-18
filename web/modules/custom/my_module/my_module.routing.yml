@@ -1,0 +1,8 @@
+
+pruebas_module.content:
+    path: '/admin/config/HolaMundo'
+    defaults:
+        _controller: '\Drupal\my_module\Controller\MyModuleController::content'
+        _title: 'Prueba Hola Mundo'
+    requirements:
+        _permission: 'access content'
